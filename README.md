@@ -4,8 +4,6 @@
 
 The main focus in this course will be on mastering the fundamentals of Modern Python with Typing using Google Colab, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. In the end of the program we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. 
 
-![Python](top-python.webp)
-
 ## We will following this course to get started [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) by Andrew Ng
 
 ## We will be using Google Colab for development:
