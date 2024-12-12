@@ -1,23 +1,10 @@
 # Learn Modern AI Python
 
-This repo is part of the [Certified Cloud Native Applied Generative AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers the first quarter of the course work:
-
 ### AI-101: Modern AI Python Programming
 
 The main focus in this course will be on mastering the fundamentals of Modern Python with Typing using Google Colab, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. In the end of the program we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. 
 
 ![Python](top-python.webp)
-
-
-## Additional Certification Program Material
-
-[Program Podcast](https://youtu.be/ViRWA4wLI8k)
-
-[Agentic AI Detailed Intro Presentation](https://bit.ly/4hTqT4G)
-
-[Program Review by ChatGPT](https://chatgpt.com/share/6732a6f1-a3c4-8001-99cb-1b272c3b3881)
-
-Read this article to understand [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
 
 ## We will following this course to get started [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) by Andrew Ng
 
